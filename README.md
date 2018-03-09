@@ -1,3 +1,2 @@
 # arrays-exercises
-
-opsaa
+conflict resolved
